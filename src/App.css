@@ -1,0 +1,25 @@
+.card {
+    display: flex;
+    box-shadow:  0.9375em;
+    padding-top:300px ;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 800px;
+  
+} 
+
+img {
+    width: 400px;
+    
+}
+
+body {
+    font-size: 18px;
+    background-color: #e3e3e3;
+}
+
+.container {
+    color: #a09ca5;
+    background-color: rgb(7, 7, 23);
+}
+
